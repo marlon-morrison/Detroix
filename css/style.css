@@ -100,6 +100,8 @@ main h2 {
     height: 543px;
     background: #b6b9bd;
     position: absolute;
+    right: -8px;
+    top: 0;
 }
 .smart {
     border-top:2px solid #b6b9bd; 
@@ -107,6 +109,7 @@ main h2 {
 .smarts {
     border-right: 0px solid  rgb(59, 58, 58);
     padding-bottom: 50px;
+    position: relative;
 }
 
 .button a {
